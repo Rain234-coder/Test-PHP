@@ -1,0 +1,11 @@
+BODY {
+background-image:url(pic/image.jpg);
+background-repeat:no-repeat; 
+background-size:cover;
+
+}
+div {
+	background-color:#00bfff !important;
+	margin:20% 40% 0 35%;
+}
+ p {font-size:42px}
